@@ -49,6 +49,7 @@
     <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
     <code><img title="npm" height="25" src="images/npm.svg"></code>
 </p>
+<!--  
 <hr>
     <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -58,3 +59,4 @@
 
 </div>
 <br><br><br><br><br><br>
+-->
