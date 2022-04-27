@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Wallace Tavares Oliveira, Full Stack Developer from Brazil.
+  Hi, I'm Wallace Oliveira, Full Stack Developer from Brazil.
   <br>
   <br>
   🔬 I'm currently studying to improve my front-end and back-end skills. I took several mini courses and found myself in both front and back
