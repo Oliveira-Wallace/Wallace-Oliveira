@@ -16,13 +16,14 @@
   <br>🎓 Focando primeiramente em cursos de plataformas expecializadas em ensino a distância, a fim de obter primeiras experiências com programação.
   <br>💻Eu amo escrever código e aprender qualquer coisa sobre isso</br>
   <br>💬 Pergunte-me qualquer coisa sobre min <a href="https://www.instagram.com/wallace_toliveira/" title="Issues">Aqui</a> e veja meu portifólio</br>
-  <br>
-  📫 Como chegar até mim: <a href="mailto: wallacetavaresoliveira84@gmail.com
-.com">wallaceTavaresOliveira
-</a>
-</p>
-<h2 align="center">🔥 Linguagens & Frameworks & Ferramentas & Habilidades 🔥</h2>
-<br>
+  
+  <div align="center">
+  <a href="https://github.com/Wallace-Tavares-Oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallace-Tavares-Oliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+  
+  <br></a></p><h2 align="center">🔥 Linguagens & Frameworks & Ferramentas & Habilidades 🔥</h2><br>
 <p align="center">
      <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
@@ -39,14 +40,8 @@
     <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
     <code><img title="npm" height="25" src="images/npm.svg"></code>
 </p>
-<!--  
-<hr>
-    <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-<br><br><br><br><br><br>
--->
