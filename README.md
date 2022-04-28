@@ -7,31 +7,21 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/wallace-oliveira/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/wallacetavareso1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/wallacetavareso1" title="Gmail "><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/wallace_toliveira/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
-<p align="center">
-  Hi, I'm Wallace Oliveira, Full Stack Developer from Brazil.
+<br><p align="center">Olá, sou Wallace Oliveira, Full Stack Developer.<br>
+  <br>🔬Atualmente estudo para melhorar minhas habilidades de front-end e back-end.</br>
+  <br>🎓 Meu primeiro contato com a programação foi em 2017. Fiz alguns cursos livres, boot camps até entrar em um dos programas da Recode em 2021.
+  <br>🎓 Focando primeiramente em cursos de plataformas expecializadas em ensino a distância, a fim de obter primeiras experiências com programação.
+  <br>💻Eu amo escrever código e aprender qualquer coisa sobre isso</br>
+  <br>💬 Pergunte-me qualquer coisa sobre min <a href="https://www.instagram.com/wallace_toliveira/" title="Issues">Aqui</a> e veja meu portifólio</br>
   <br>
-  <br>
-  🔬 I'm currently studying to improve my front-end and back-end skills. I took several mini courses and found myself in both front and back
-  <br>
-  🎓 I graduated from the Recode Pro full-stack developer project at Recode with a branch in Brazil.
-  <br>
-  🎓 Before that, I focused on courses on distance learning platforms in search of first experiences
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Java and ReactJs
-  <br>
-  💬 Ask me anything about from <a href="https://www.instagram.com/wallace_toliveira/" title="Issues">Here</a> And see my portfolio in images 
-  <br>
-  📫 How to reach me: <a href="mailto: wallacetavaresoliveira84@gmail.com
+  📫 Como chegar até mim: <a href="mailto: wallacetavaresoliveira84@gmail.com
 .com">wallaceTavaresOliveira
 </a>
 </p>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Linguagens & Frameworks & Ferramentas & Habilidades 🔥</h2>
 <br>
 <p align="center">
      <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
