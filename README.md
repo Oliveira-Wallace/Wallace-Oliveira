@@ -29,6 +29,7 @@
     <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="SQL" height="25" src="images/sql.png"></code>
   <code><img title="NoSQL" height="25" src="images/nosql.png"></code> <b>-</b> 
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
