@@ -50,6 +50,8 @@
   <code><img title="mongodb" height="25" src="images/mongodb.png"></code>
     <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Heroku" height="25" src="images/heroku.png"></code>
+  <code><img title="Insomnia" height="25" src="images/insomnia-icon.png"></code>
+  <code><img title="Postman" height="25" src="images/postman.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
 
