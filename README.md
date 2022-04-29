@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-  <br></a></p><h2 align="center">🔥 Linguagens & Frameworks & Ferramentas & Habilidades 🔥</h2><br>
+  <br></a></p><h2 align="center">🔥 Linguagens - Frameworks - Ferramentas & Habilidades 🔥</h2><br>
 <p align="center">
      <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
