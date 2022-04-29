@@ -32,6 +32,7 @@
 </p>
   <br></a></p><h2 align="center">🔥 Ferramentas & Habilidades 🔥</h2><br>
 <p align="center">
+  <code><img title="Eclipse" height="25" src="images/eclipese_logo"></code>
     <code><img title="React" height="25" src="images/react-original.svg"></code>
     <code><img title="Git" height="25" src="images/git-original.svg"></code>
     <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
