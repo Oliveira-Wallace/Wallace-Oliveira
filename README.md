@@ -32,6 +32,7 @@
   <code><img title="CSharp" height="25" src="images/csharp.png"></code>
   <code><img title="SQL" height="25" src="images/sql.png"></code>
   <code><img title="NoSQL" height="25" src="images/nosql.png"></code> <b>-</b> 
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code>
   <code><img title="Spring Boot" height="25" src="images/springboot.png"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
 </p>
@@ -40,13 +41,15 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Eclipse" height="25" src="images/eclipese_logo.png"></code>
     <code><img title="React" height="25" src="images/react-original.svg"></code>
-    <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Bash" height="25" src="images/bash-iconjpg.jpg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
     <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
     <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="SQLServer" height="25" src="images/sqlserver.png"></code>
   <code><img title="mongodb" height="25" src="images/mongodb.png"></code>
     <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Heroku" height="25" src="images/heroku.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
 
