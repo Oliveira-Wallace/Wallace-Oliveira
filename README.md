@@ -12,8 +12,8 @@
 </h5>
 <br><p align="center">Olá, sou Wallace Oliveira, Full Stack Developer.<br>
   <br>🔬Atualmente estudo para melhorar minhas habilidades de front-end e back-end.</br>
-  <br>🎓 Meu primeiro contato com a programação foi em 2017. Fiz alguns cursos livres, boot camps até entrar em um dos programas da Recode em 2021.
-  <br>🎓 Focando primeiramente em cursos de plataformas expecializadas em ensino a distância, a fim de obter primeiras experiências com programação.
+  <br>🎓 Meu primeiro contato com a programação foi em 2017. Focando primeiramente em cursos de plataformas expecializadas em ensino a distância, a fim de obter primeiras experiências com programação.
+  <br>🎓 Fiz alguns cursos livres, boot camps até entrar em um dos programas da Recode em 2021.
   <br>💻Eu amo escrever código e aprender qualquer coisa sobre isso</br>
   <br>💬 Pergunte-me qualquer coisa sobre min <a href="https://www.instagram.com/wallace_toliveira/" title="Issues">Aqui</a> e veja meu portifólio</br>
   
