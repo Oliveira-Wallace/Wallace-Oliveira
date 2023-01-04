@@ -10,7 +10,7 @@
   <br>🎓 Meu primeiro contato com a programação foi em 2017. Focando primeiramente em cursos de plataformas especializadas em ensino a distância, a fim de obter primeiras experiências com programação.</br>
   <br>🎓 Fiz alguns cursos livres, boot camps até entrar em um dos programas da Recode em 2021.
   <br>💻Eu amo escrever código e aprender qualquer coisa sobre isso</br>
-  <br>💬 Pergunte alguma coisa sobre <a href="[https://www.instagram.com/wallace_toliveira/](https://www.instagram.com/goaldevsolo/)" title="Issues">Aqui</a> e veja meu portifólio</br>
+  <br>💬 Pergunte alguma coisa sobre <a href="https://www.instagram.com/goaldevsolo/"Issues">Aqui</a> e veja meu portifólio</br>
   -->
   <div align="center">
   <a href="https://github.com/Wallace-Tavares-Oliveira">
