@@ -29,7 +29,6 @@
   <code><img title="NoSQL" height="25" src="images/nosql.png"></code> <b>-</b> 
   <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code>
   <code><img title="Spring Boot" height="25" src="images/springboot.png"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
 </p>
   <br></a></p><h2 align="center">🔥 Tools & Skills 🔥</h2><br>
 <p align="center">
