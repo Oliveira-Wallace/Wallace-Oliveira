@@ -57,7 +57,7 @@
   <code>
     <a href="https://www.linkedin.com/in/wallace-oliveira/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto: wallacetavaresoliveira84@gmail.com" title="Gmail "><img width="22" src="images/gmail_icon.png"> Gmail</a></code>
-  <code><a href="https://www.instagram.com/wallace_toliveira/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/goaldevsolo/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
  
 </div>
